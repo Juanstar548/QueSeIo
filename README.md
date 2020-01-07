@@ -1,2 +1,2 @@
 # QueSeIo
-AFA AFA AFA
+Este repositorio va a consistir en como trabajar con una IDE y 
