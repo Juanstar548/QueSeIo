@@ -1,2 +1,2 @@
 # QueSeIo
-Este repositorio va a consistir en como trabajar con una IDE y 
+Este repositorio va a consistir en como trabajar con una IDE
